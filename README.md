@@ -10,6 +10,10 @@ T-LOAD is a new UI for termux
 
 </p>
 
+<p align="center"> <img src="https://telegra.ph/file/cb016a413d21b2533b7e8.jpg" height="120px" width="120px">
+
+</p>
+
 <p align="center"> Project created by
 
 <p align="center"> <a href="https://github.com/AlonePhilic">𝙰𝙻𝙾𝙽𝙴𝙿𝙷𝙸𝙻𝙸𝙲</a>
@@ -30,12 +34,17 @@ T-LOAD is a new UI for termux
 
 </p>
 
-#### Profile Views 
-<p align="center">
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AlonePhilic&title=AlonePhilic%20Views)
+<h7> Profile Views </h7>
+<img src="https://profile-counter.glitch.me/AlonePhilic/count.svg" />
 
 </p>
+
+<p>
+
+<a href="https://github.com/AlonePhilic"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a>
+
+</p>
+
 
 ## ABOUT TOOL :
 
