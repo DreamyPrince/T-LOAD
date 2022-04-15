@@ -1,5 +1,41 @@
 # T-LOAD
 T-LOAD is a new UI for termux
+</p>
+
+<p align="center"><a href="https://github.com/AlonePhilic"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer 
+
+</p>
+
+</div>
+
+</p>
+
+<p align="center"> Project created by
+
+<p align="center"> <a href="https://github.com/AlonePhilic">𝙰𝙻𝙾𝙽𝙴𝙿𝙷𝙸𝙻𝙸𝙲</a>
+
+<p align="center"> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
+
+### 𝙺𝚎𝚎𝚙 𝚜𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚖𝚎
+
+
+<p align="center">
+<a href="https://instagram.com/itzme_lucifer01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thorloki_official" height="30" width="40" /></a>
+<a href="https://twitter.com/itzmelucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmelucifer" height="30" width="40" /></a>
+
+</p>
+
+#### Profile Views 
+<p align="center">
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AlonePhilic&title=AlonePhilic%20Views)
+
+</p>
 
 ## ABOUT TOOL :
 
