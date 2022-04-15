@@ -1,6 +1,4 @@
 # T-LOAD
-T-LOAD is a new UI for termux
-</p>
 
 <p align="center"><a href="https://github.com/AlonePhilic"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer 
 
