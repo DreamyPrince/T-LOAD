@@ -1,6 +1,6 @@
 # T-LOAD
 
-<p align="center"><a href="https://github.com/AlonePhilic"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer 
+<p align="center"><a href="https://github.com/DreamyPrince"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer 
 
 </p>
 
@@ -8,13 +8,13 @@
 
 </p>
 
-<p align="center"> <img src="https://telegra.ph/file/cb016a413d21b2533b7e8.jpg" height="120px" width="120px">
+<p align="center"> <img src="https://i.imgur.com/NymSJ6f.jpeg" height="120px" width="120px">
 
 </p>
 
 <p align="center"> Project created by
 
-<p align="center"> <a href="https://github.com/AlonePhilic">𝙰𝙻𝙾𝙽𝙴𝙿𝙷𝙸𝙻𝙸𝙲</a>
+<p align="center"> <a href="https://github.com/DreamyPrince">𝙳𝚁𝙴𝙰𝙼𝚈 𝙿𝚁𝙸𝙽𝙲𝙴</a>
 
 <p align="center"> to make it public
     <br>
@@ -33,13 +33,13 @@
 </p>
 
 <h7> Profile Views </h7>
-<img src="https://profile-counter.glitch.me/AlonePhilic/count.svg" />
+<img src="https://profile-counter.glitch.me/DreamyPrince/count.svg" />
 
 </p>
 
 <p>
 
-<a href="https://github.com/AlonePhilic"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a>
+<a href="https://github.com/DreamyPrince"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a>
 
 </p>
 
@@ -74,7 +74,7 @@ T-load is a bash based script which modifies and changes your terminal from bori
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/AlonePhilic/T-LOAD`
+* ` git clone https://github.com/DreamyPrince/T-LOAD`
 * `cd $HOME`
 * `ls`
 * `cd T-LOAD`
